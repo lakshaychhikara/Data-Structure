@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  insertion_sort
-//
-//  Created by Karan Garg on 02/10/18.
-//  Copyright © 2018 Karan Garg. All rights reserved.
-//
+
 
 #include <iostream>
 using namespace std;
