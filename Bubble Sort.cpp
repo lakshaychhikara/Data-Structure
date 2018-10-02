@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  bubble
-//
-//  Created by Karan Garg on 23/07/18.
-//  Copyright © 2018 Karan Garg. All rights reserved.
-//
 
 #include <iostream>
 using namespace std;
@@ -44,7 +37,7 @@ int main()
 {
     bubble obj;
     int n;
-    cout<<"enter no of inputs";
+    cout<<"Enter no of inputs: ";
     cin>>n;
     obj.input(n);
     obj.sort(n);
