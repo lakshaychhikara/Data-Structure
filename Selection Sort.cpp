@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  bubble
-//
-//  Created by Karan Garg on 23/07/18.
-//  Copyright © 2018 Karan Garg. All rights reserved.
-//
 
 #include <iostream>
 using namespace std;
