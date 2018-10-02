@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  binary_search
-//
-//  Created by Karan Garg on 23/07/18.
-//  Copyright © 2018 Karan Garg. All rights reserved.
-//
+
 #include <iostream>
 using namespace std;
 class binary
@@ -49,10 +43,10 @@ int main()
 {
     binary obj;
     int n,m;
-    cout<<"enter no of inputs";
+    cout<<"Enter no of inputs: ";
     cin>>n;
     obj.input(n);
-    cout<<"enter the value to be searched";
+    cout<<"Enter the value to be searched: ";
     cin>>m;
     obj.search(n,m);
     
