@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  quick_sort
-//
-//  Created by Karan Garg on 27/09/18.
-//  Copyright © 2018 Karan Garg. All rights reserved.
-//
+
 
 #include <iostream>
 using namespace std;
