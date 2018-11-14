@@ -1,12 +1,3 @@
-//
-//  main.cpp
-//  DFS
-//
-//  Created by Karan Garg on 13/11/18.
-//  Copyright © 2018 Karan Garg. All rights reserved.
-//
-
-
 #include<iostream>
 #include<list>
 using namespace std;
